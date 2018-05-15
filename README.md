@@ -47,7 +47,7 @@ Now you can check demo
 ##### Support Cordova(Android and IOS)
 
 
-### Developer Documnet
+### Developer Document
 #### [Browser SDK ](https://github.com/murugancmi/nari/wiki/browser)
 #### [Scalable Server ](https://github.com/murugancmi/nari/wiki/Nari-server-Installation)
 
